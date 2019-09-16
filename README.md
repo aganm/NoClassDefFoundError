@@ -4,7 +4,7 @@ Use run script to execute
 $ ./run.sh
 ```
 
-This the output I get
+This is the output I get
 ```
 [error] (AWT-EventQueue-0) java.lang.NoClassDefFoundError: Bar
 [error] java.lang.NoClassDefFoundError: Bar
